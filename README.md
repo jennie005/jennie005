@@ -17,7 +17,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | ` Social Media Web App | MERN Stack | Feb 2025` |A modern and responsive social media platform developed with the MERN stack | MERN |
-| `E-commerce App with Stripe & Firebase ` | Built an end-to-end eCommerce platform using React, Redux, Firebase Auth, and Stripe. | React, Tailwind,Stripe API. |
+| ' Youtube clone | | MERN Stack | Nov 2024
 | `Independent AI Researcher (Stealth Mode)` | Explored next-gen AI stack focused on tool chaining, prompt engineering, and intelligent workflows.
 – Designed mini-projects simulating real-world AI solutions for education, finance, and productivity. | Node.js, AI |
 ---
